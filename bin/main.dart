@@ -102,8 +102,8 @@ void main() {
   print("___________________________________");
   //Task Number 2
   Employee naism = Employee('nasim', 34000);
-  Manager jahid = Manager('Jahid', 'CSE', 96000);
-  Developer masud = Developer("masus", 48000, "Java Script");
+  Manager jahid = Manager('Jahid', 'CSE', 65000);
+  Developer masud = Developer("masus", 50000, "Java Script");
   naism.displayInfo();
   jahid.displayInfo();
   masud.displayInfo();
